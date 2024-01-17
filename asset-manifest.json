@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/audiophile-ecommerce/static/css/main.f0bfebf5.css",
+    "main.js": "/audiophile-ecommerce/static/js/main.94df623a.js",
+    "static/js/787.fd6813f6.chunk.js": "/audiophile-ecommerce/static/js/787.fd6813f6.chunk.js",
+    "static/media/image-hero.jpg": "/audiophile-ecommerce/static/media/image-hero.fb7f46173fa4c819c755.jpg",
+    "static/media/image-header.jpg": "/audiophile-ecommerce/static/media/image-header.d200a3583e72c7981f46.jpg",
+    "static/media/image-category-thumbnail-headphones.png": "/audiophile-ecommerce/static/media/image-category-thumbnail-headphones.fbd401d9c735a217286f.png",
+    "static/media/image-category-thumbnail-speakers.png": "/audiophile-ecommerce/static/media/image-category-thumbnail-speakers.bbb1a70b6ebc42d18df7.png",
+    "static/media/image-category-thumbnail-earphones.png": "/audiophile-ecommerce/static/media/image-category-thumbnail-earphones.6e8830d475e04b7b9627.png",
+    "static/media/image-speaker-zx7.jpg": "/audiophile-ecommerce/static/media/image-speaker-zx7.173a4cb5c7acfc7f300c.jpg",
+    "static/media/image-earphones-yx1.jpg": "/audiophile-ecommerce/static/media/image-earphones-yx1.48e16a44bd58ed3be41e.jpg",
+    "static/media/logo.svg": "/audiophile-ecommerce/static/media/logo.e03974f8eeb36e51813ca6f10681acdc.svg",
+    "static/media/icon-cart.svg": "/audiophile-ecommerce/static/media/icon-cart.5e1893a62995fc7b443a.svg",
+    "index.html": "/audiophile-ecommerce/index.html",
+    "static/media/pattern-circles.svg": "/audiophile-ecommerce/static/media/pattern-circles.f4df3610b83b818abbbe.svg",
+    "static/media/icon-hamburger.svg": "/audiophile-ecommerce/static/media/icon-hamburger.f8a9f0cf12d419a7d185.svg",
+    "main.f0bfebf5.css.map": "/audiophile-ecommerce/static/css/main.f0bfebf5.css.map",
+    "main.94df623a.js.map": "/audiophile-ecommerce/static/js/main.94df623a.js.map",
+    "787.fd6813f6.chunk.js.map": "/audiophile-ecommerce/static/js/787.fd6813f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0bfebf5.css",
+    "static/js/main.94df623a.js"
+  ]
+}
