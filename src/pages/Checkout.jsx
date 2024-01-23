@@ -194,7 +194,7 @@ export default function Checkout() {
                   type="text"
                   name="name"
                   id="form-name"
-                  placeholder="Alexei Ward"
+                  placeholder="John Doe"
                   onChange={handleChange}
                 />
                 <h1 className="error fs-5 hide">{error.name}</h1>
@@ -204,7 +204,7 @@ export default function Checkout() {
                 <input
                   type="text"
                   name="email"
-                  placeholder="alexei@mail.com"
+                  placeholder="johndoe@mail.com"
                   onChange={handleChange}
                 />
                 <h1 className="error fs-5 hide">{error.email}</h1>
@@ -214,7 +214,7 @@ export default function Checkout() {
                 <input
                   type="text"
                   name="phone"
-                  placeholder="+1 202-555-0136"
+                  placeholder="+44239987656"
                   onChange={handleChange}
                 />
                 <h1 className="error fs-5 hide">{error.phone}</h1>
@@ -232,7 +232,7 @@ export default function Checkout() {
                 <input
                   type="text"
                   name="address"
-                  placeholder="1137 Williams Avenue"
+                  placeholder="Airport View"
                   onChange={handleChange}
                 />
                 <h1 className="error fs-5 hide">{error.address}</h1>
@@ -242,7 +242,7 @@ export default function Checkout() {
                 <input
                   type="text"
                   name="zip"
-                  placeholder="10001"
+                  placeholder="15068"
                   onChange={handleChange}
                 />
                 <h1 className="error fs-5 hide">{error.zip}</h1>
@@ -252,7 +252,7 @@ export default function Checkout() {
                 <input
                   type="text"
                   name="city"
-                  placeholder="New York"
+                  placeholder="Bristol"
                   onChange={handleChange}
                 />
                 <h1 className="error fs-5 hide">{error.city}</h1>
@@ -262,7 +262,7 @@ export default function Checkout() {
                 <input
                   type="text"
                   name="country"
-                  placeholder="United States"
+                  placeholder="United Kingdom"
                   onChange={handleChange}
                 />
                 <h1 className="error fs-5 hide">{error.country}</h1>
@@ -309,24 +309,24 @@ export default function Checkout() {
                 }
               >
                 <div className="label-input-container ff-sanserif">
-                  <label>e-Money Number</label>
+                  <label>Alternative Payment Number</label>
                   <input
                     type="number"
                     name="eMoneyNum"
-                    placeholder="e.g. 238521993"
+                    placeholder="23456754"
                     onChange={handleChange}
                   />
                   <h1 className="error fs-5 hide">{error.eMoney}</h1>
                 </div>
                 <div className="label-input-container ff-sanserif">
-                  <label>e-money PIN</label>
+                  <label> PIN</label>
                   <input
                     type="number"
                     name="pin"
                     min={"0000"}
                     max={"9999"}
                     maxLength="4"
-                    placeholder="e.g. 6891"
+                    placeholder="5432"
                     onChange={handleChange}
                   />
                   <h1 className="error fs-5 hide">{error.pin}</h1>
